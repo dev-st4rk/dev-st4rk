@@ -4,13 +4,13 @@
 
 ### About myself
 
-- :tw-1f4bb:&nbsp;&nbsp;I'm Systems Development Technician;
+- &nbsp;&nbsp;I'm Systems Development Technician;
 
-- :tw-1f393:&nbsp;&nbsp;I'm studying Systems Analysis and Development at college;
+- &nbsp;&nbsp;I'm studying Systems Analysis and Development at college;
 
-- :tw-1f4da:&nbsp;&nbsp;I am very interested in the areas of Blockchain, IoT and Artificial Intelligence, both for civilian and military applications.
+- &nbsp;&nbsp;I am very interested in the areas of Blockchain, IoT and Artificial Intelligence, both for civilian and military applications.
 
-- 💬&nbsp;&nbsp;Ask me about **programming, entrepreneurship, security**
+- &nbsp;&nbsp;Ask me about **programming, entrepreneurship, security**
 
 
 ### Tech stack
