@@ -1,27 +1,54 @@
-<h1 align="center">Hi 👋, I'm Henrique Gonçalves</h1>
-<h3 align="center">A full-stack developer from Brazil.</h3>
+## Hi there, i'm Henrique Gonçalves 👋
 
+- I'm Systems Development Technician;
+- I'm studying Systems Analysis and Development at college;
+- I am currently studying Blockchain and technology for military applications.
 
-### About myself
+### 🛠 &nbsp;Tech Stack
 
-- &nbsp;&nbsp;I'm Systems Development Technician;
+- 🌐 Front-end &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
-- &nbsp;&nbsp;I'm studying Systems Analysis and Development at college;
+- 👨🏻‍💻 Back-end &nbsp;
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Node-Red](https://img.shields.io/badge/-NodeRed-333333?style=flat&logo=nodered)
 
-- &nbsp;&nbsp;I am very interested in the areas of Blockchain, IoT and Artificial Intelligence, both for civilian and military applications.
+- 🛢 Databases &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
-- &nbsp;&nbsp;Ask me about **programming, entrepreneurship, security**
+- 📱 Mobile &nbsp;
+  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
+  ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
 
+- 📦 Version Control &nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-### Tech stack
-| [<img src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" alt="IBM Watson" width="40">](https://www.ibm.com/watson) | [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" alt="NodeRED" width="28">](https://nodered.org/) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" alt="Swift" width="28">](https://swift.org/documentation/) | [<img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino" width="28">](https://www.arduino.cc/) | [<img src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22-768x768.png" alt="C" width="28">](https://en.cppreference.com/w/) | [<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" alt="html logo" width="28">](https://html.com/) | [<img src="https://sikode.github.io/assets/img/logo/css3.png" alt="CSS" width="28">](https://www.w3.org/Style/CSS/Overview.en.html) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="28">](https://www.javascript.com/) | [<img src="https://sikode.github.io/assets/img/logo/bs.png" alt="Bootstrap" width="28">](https://getbootstrap.com/) | [<img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" width="30">](https://www.mysql.com/) | [<img src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png" alt="Ionic" width="30">](https://www.mysql.com/) |
-  
-</p>
+- 🧊 Back-end as a service &nbsp;
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Microsoft)
+  ![Watson](https://img.shields.io/badge/-Watson-333333?style=flat&logo=IBM)
 
-### Github statistics
+- 🧊 Blockchain &nbsp;
+In progress...
 
+## My Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-st4rk&hide=html&layout=compact&show_icons=true,hide=php,smarty&bg_color=400,A59F7B,355236&title_color=141A2A&text_color=141A2A" alt="dev-st4rk" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-st4rk&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=400,A59F7B,355236&title_color=141A2A&text_color=141A2A" alt="dev-st4rk" />
+<a href="https://github.com/dev-st4rk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-st4rk&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-st4rk&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
 </p>
 
+##  🤝🏻 &nbsp;Contact info
+
+<p align="center">
+<a href="https://www.linkedin.com/in/devhenrique7/"><img src="https://img.shields.io/badge/-Henrique%20Gon%C3%A7alves-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:devhenrique7@gmail.com"><img src="https://img.shields.io/badge/-devhenrique7@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
