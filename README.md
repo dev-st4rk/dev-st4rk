@@ -35,7 +35,7 @@
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Microsoft)
   ![Watson](https://img.shields.io/badge/-Watson-333333?style=flat&logo=IBM)
 
-- 🧊 Blockchain &nbsp;
+- ⛓  Blockchain &nbsp;
 In progress...
 
 ## My Stats
@@ -51,4 +51,3 @@ In progress...
 <p align="center">
 <a href="https://www.linkedin.com/in/devhenrique7/"><img src="https://img.shields.io/badge/-Henrique%20Gon%C3%A7alves-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:devhenrique7@gmail.com"><img src="https://img.shields.io/badge/-devhenrique7@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
